@@ -4,3 +4,6 @@
 [submodule "ros2_intel_realsense"]
 	path = ros2_intel_realsense
 	url = https://github.com/intel/ros2_intel_realsense.git
+[submodule "gender_predictor"]
+	path = gender_predictor
+	url = https://github.com/rionehome/gender_predictor.git
