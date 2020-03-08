@@ -1,0 +1,6 @@
+[submodule "face_predictor"]
+	path = face_predictor
+	url = https://github.com/rionehome/face_predictor.git
+[submodule "ros2_intel_realsense"]
+	path = ros2_intel_realsense
+	url = https://github.com/intel/ros2_intel_realsense.git
